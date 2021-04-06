@@ -21,7 +21,7 @@ https://www.figma.com/file/WSONaxNSUhXEaRnfi5GWNU/XDS-Challenge
 ### Documentação da API
 Swagger da Api:
 
-http://br.com.xds.challenge.swagger.s3-website-us-east-1.amazonaws.com/
+http://br.com.xds.challenge.swagger.s3-website-us-east-1.amazonaws.com
 
 ### Autenticação
 ```
