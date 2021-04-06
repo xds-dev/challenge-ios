@@ -40,4 +40,7 @@ http://br.com.xds.challenge.swagger.s3-website-us-east-1.amazonaws.com
 - Organização de código;
 - e muito mais :D;
 
+### Entrega
+Quando terminar, enviar o link ou o zip do repositório para gente.
+
 Good Coding!
