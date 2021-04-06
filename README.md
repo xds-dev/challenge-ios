@@ -31,7 +31,7 @@ http://br.com.xds.challenge.swagger.s3-website-us-east-1.amazonaws.com/
 }
 ```
 
-### O que será avaliado:
+### O que será avaliado?
 - Arquitetura do projeto;
 - Lógica aplicada;
 - Navegação entre telas;
