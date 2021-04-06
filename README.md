@@ -4,7 +4,7 @@ A proposta deste desafio é avaliar as competências e habilidades do desenvolve
 ![Code-Challenge-Image](https://miro.medium.com/max/400/1*_H2Smz9D1ftykYh8mVuA4g.png)
 
 ### Meu Próprio App
-Um grande amigo seu, não aguenta mais pagar comissão para os aplicativos de comida e acha que chegou o grande momento de desenvolver uma aplicativo próprio para sua pizzaria. A Idéia e começar bem simples, somente o MVP e ir evoluíndo aos poucos.
+Um grande amigo seu, não aguenta mais pagar comissão para os aplicativos de comida e acha que chegou o grande momento de desenvolver o App da sua Pizzaria. A Idéia e começar bem simples, somente o MVP e ir evoluíndo aos poucos.
 
 ### Requisitos
 Desenvolver App nativo em plataforma IOS linguagem Swift
