@@ -15,9 +15,12 @@ No MVP deverá conter:
 
 ### UI/UX
 Seguir a UI/UX de acordo com o documento:
+
 https://www.figma.com/file/WSONaxNSUhXEaRnfi5GWNU/XDS-Challenge
 
 ### Documentação da API
+Swagger da Api:
+
 http://br.com.xds.challenge.swagger.s3-website-us-east-1.amazonaws.com/
 
 ### Autenticação
