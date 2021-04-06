@@ -9,9 +9,9 @@ Um grande amigo seu, não aguenta mais pagar comissão para os aplicativos de co
 ### Requisitos
 Desenvolver App nativo em plataforma IOS linguagem Swift
 No MVP deverá conter:
-- login
-- listagem de pizzas
-- detalhes de uma pizza
+- Autenticação;
+- Listagem de pizzas;
+- Checkout de pizza;
 
 ### UI/UX
 Seguir a UI/UX de acordo com o documento:
@@ -35,6 +35,6 @@ http://br.com.xds.challenge.swagger.s3-website-us-east-1.amazonaws.com/
 - Frameworks utilizados;
 - Bibliotecas utilizadas;
 - Organização de código;
-- e muito mais...
+- e muito mais :D;
 
 Good Coding!
