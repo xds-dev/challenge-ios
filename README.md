@@ -20,10 +20,21 @@ https://www.figma.com/file/WSONaxNSUhXEaRnfi5GWNU/XDS-Challenge
 ### Documentação da API
 http://br.com.xds.challenge.swagger.s3-website-us-east-1.amazonaws.com/
 
-### Autenticacao
+### Autenticação
 ```
 {
   "email": "user@xds.com.br",
   "password": "223344"
 }
 ```
+
+### O que será avaliado:
+- Arquitetura do projeto;
+- Lógica aplicada;
+- Navegação entre telas;
+- Frameworks utilizados;
+- Bibliotecas utilizadas;
+- Organização de código;
+- e muito mais...
+
+Good Coding!
