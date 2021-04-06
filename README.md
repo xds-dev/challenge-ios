@@ -14,7 +14,7 @@ No MVP deverá conter:
 - Checkout de pizza;
 
 ### UI/UX
-Seguir a UI/UX de acordo com o documento:
+Seguir a UI/UX de acordo com a especificação:
 
 https://www.figma.com/file/WSONaxNSUhXEaRnfi5GWNU/XDS-Challenge
 
