@@ -23,13 +23,18 @@ Swagger da Api:
 
 http://br.com.xds.challenge.swagger.s3-website-us-east-1.amazonaws.com
 
-### Autenticação
+#### Autenticação
+
+`POST - > https://p3teufi0k9.execute-api.us-east-1.amazonaws.com/v1/signin`
 ```
 {
   "email": "user@xds.com.br",
   "password": "223344"
 }
 ```
+
+#### Pizzas
+`GET ->  https://p3teufi0k9.execute-api.us-east-1.amazonaws.com/v1/pizza`
 
 ### O que será avaliado?
 - Arquitetura do projeto;
