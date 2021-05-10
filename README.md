@@ -8,6 +8,7 @@ Um grande amigo seu, não aguenta mais pagar comissão para os aplicativos de co
 
 ### Requisitos
 Desenvolver App nativo em plataforma IOS linguagem Swift
+
 No MVP deverá conter:
 - Autenticação;
 - Listagem de pizzas;
